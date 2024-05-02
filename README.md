@@ -6,3 +6,6 @@ I will maintain a list of the included projects and a summary of what they do as
 - rotter.py
 	- Takes an input of ciphertext and runs it through a number of rotational ciphers, giving output to help indicate if the ciphertext resolves to anything useful in a given rotational cipher. Currently only handles basic Caeser cipher using alphabet characters.
 	- Will be updated with further character sets and other rotational cipher permutations.
+
+- BoxMag
+	- Tool for managing passwords and usernames that have been discovered, while simultaneously building a wordlist for spraying
